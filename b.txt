@@ -1,3 +1,7 @@
 init 
 add 1
+<<<<<<< HEAD
 add 2
+=======
+add branch1
+>>>>>>> branch1
