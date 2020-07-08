@@ -9,3 +9,4 @@ add in github 2
 fixed
 git rebase -i HEAD
 add 1
+add 2
