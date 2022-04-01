@@ -1,6 +1,7 @@
 .git/objects/
             info
             pack
+            
 git add a.txt 后 
           + c4/8e89e....
           // 命令
